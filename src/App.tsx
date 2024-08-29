@@ -20,7 +20,7 @@ export default function App() {
             <input
               type="text"
               placeholder="Cari Menu Anda disini"
-              className="w-full border-gray-300 border px-3 rounded shadow-sm bg-slate-100 text-md"
+              className="w-full px-3 border border-gray-300 rounded shadow-sm bg-slate-100 text-md"
             />
             <button className="px-6 py-2 ml-3 text-white bg-pink-600 rounded-r ">
               Cari
