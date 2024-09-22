@@ -3,7 +3,7 @@
 - Clone terlebih dahulu
 
 ```bash
-git clone https://github.com/baimprogramer2016/template-pos.git
+git clone https://github.com/baimprogramer2016/react-foods.git
 ```
 
 - install
